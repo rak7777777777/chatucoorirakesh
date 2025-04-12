@@ -1,0 +1,32 @@
+we-just-think-party-ai/index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>We Just Think Party AI</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to bottom right, #222, #444);
+      color: #fff;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 20px;
+    }
+    a {
+      color: #00ffcc;
+      text-decoration: none;
+      font-size: 1.2em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to We Just Think Party AI</h1>
+  <p>This is 1 of 12 apps by Chatucoori Rakesh.</p>
+  <a href="../">← Back to Main Page</a>
+</body>
+</html>
