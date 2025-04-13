@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Infinity Chat</title>
+  <style>
+    body { background-color: #888; color: white; text-align: center; padding: 50px; }
+  </style>
+</head>
+<body>
+  <h1>Infinity Chat</h1>
+  <p>This is the seventh app.</p>
+  <a href="index.html">Back to Main Page</a>
+</body>
+</html>
