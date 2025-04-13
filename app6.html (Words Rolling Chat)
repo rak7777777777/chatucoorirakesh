@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Words Rolling Chat</title>
+  <style>
+    body { background-color: #777; color: white; text-align: center; padding: 50px; }
+  </style>
+</head>
+<body>
+  <h1>Words Rolling Chat</h1>
+  <p>This is the sixth app.</p>
+  <a href="index.html">Back to Main Page</a>
+</body>
+</html>
