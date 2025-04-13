@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Destiny Chat Zone</title>
+  <style>
+    body { background-color: #444; color: white; text-align: center; padding: 50px; }
+  </style>
+</head>
+<body>
+  <h1>Destiny Chat Zone</h1>
+  <p>This is the third app.</p>
+  <a href="index.html">Back to Main Page</a>
+</body>
+</html>
